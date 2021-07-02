@@ -38,4 +38,6 @@ Odd question but okay. It's running on repl because I'm broke.
 - [u/Glass-Paramedic](https://www.reddit.com/user/Glass-Paramedic) - Co-Developer
 - [u/Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere) - The man with the idea
 - [u/nyperfox](https://www.reddit.com/user/nyperfox) - He did some shit too
+
+
 There would have been pictures of our snoos with cocks here, but I can't be bothered.
