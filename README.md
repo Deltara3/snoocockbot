@@ -23,7 +23,7 @@ Odd question but okay. It's running on repl because I'm broke.
 - ??? - Rivalary ended between [u/AmongUsCockBot](https://github.com/nlanson/AmongUsCockBot) and [u/snoocockbot](https://www.reddit.com/user/snoocockbot).
 - 05/10/2021 - Mobile formatting was fixed, with assistance from [u/keijyu](https://www.reddit.com/user/keijyu).
 - 07/02/2021 - Bot finally became open-source.
-- 07/02/2021 - Bot got a Snoo avatar makeover due to an anonymous Redditor awarding it Gold.
+- 07/02/2021 - Bot got a Snoo avatar makeover thanks to an anonymous Redditor awarding it Gold.
 
 ## Acknowledgements
 - [u/keijyu](https://www.reddit.com/user/keijyu) for making [u/AmongUsCockBot](https://github.com/nlanson/AmongUsCockBot) and helping us fix mobile formatting.
