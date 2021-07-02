@@ -46,4 +46,4 @@ There would have been pictures of our snoos with cocks here, but I'm lazy.
 Take this instead.
 
 
-![Snoo Cock](/snoocock.png)
+![Snoo Cock](snoocock.png)
