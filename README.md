@@ -40,4 +40,8 @@ Odd question but okay. It's running on repl because I'm broke.
 - [u/nyperfox](https://www.reddit.com/user/nyperfox) - He did some shit too
 
 
-There would have been pictures of our snoos with cocks here, but I can't be bothered.
+There would have been pictures of our snoos with cocks here, but I'm lazy.
+Take this instead.
+
+
+![Snoo Cock](/snoocock.png)
