@@ -2,7 +2,7 @@
 The spiritual successor to AmongUsCockBot.
 
 ## Why?
-I dunno it was funny.
+I dunno, it was funny.
 
 ## What can it do?
 - Cock
@@ -41,6 +41,8 @@ Odd question but okay. It's running on repl because I'm broke.
 
 
 There would have been pictures of our snoos with cocks here, but I'm lazy.
+
+
 Take this instead.
 
 
