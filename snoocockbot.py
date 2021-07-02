@@ -14,7 +14,7 @@ reddit = praw.Reddit(
   user_agent = "follow Reddit guidelines when filling this in", # Please do
   username = "obviously put your bot name here",
   password = bot_password, # Recommended to use a hidden variable.
-  validate_on_submit = True
+  validate_on_submit = True # Added to comply with upcoming Reddit guidelines.
 )
 
 # For logging purposes
