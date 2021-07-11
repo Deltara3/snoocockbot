@@ -29,6 +29,7 @@ Odd question but okay. It's running on repl because I'm broke.
 - [u/keijyu](https://www.reddit.com/user/keijyu) for making [u/AmongUsCockBot](https://github.com/nlanson/AmongUsCockBot) and helping us fix mobile formatting.
 - [u/Glass-Paramedic](https://www.reddit.com/user/Glass-Paramedic) for Co-Developing and paying someone a pound for the artwork
 - That guy who wished to stay anonymous for making the artwork.
+- The anonymous Redditor who gifted the bot Gold.
 - [u/Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere) for having the original idea.
 - [u/nyperfox](https://www.reddit.com/user/nyperfox) for helping with planning and shit.
 - [u/AmongUsCockBot](https://github.com/nlanson/AmongUsCockBot) for being a fellow cock bot.
