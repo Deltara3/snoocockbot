@@ -10,7 +10,6 @@ I dunno, it was funny.
 - and more Cock
 - Probably something else I dunno.
 - It got the Brighten My Day award so it can clearly brighten up your day
-- 
 
 ## Where?
 Odd question but okay. It's running on repl because I'm broke.
