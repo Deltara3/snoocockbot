@@ -53,4 +53,4 @@ There would have been pictures of our snoos with cocks here, but I'm lazy.
 Take this instead.
 
 
-![Snoo Cocks](Elemento_Sphere with a cock.png)
+![Snoo Cocks](snoocock.png)
