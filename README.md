@@ -39,6 +39,9 @@ Odd question but okay. It's running on repl because I'm broke.
 - [u/nyperfox](https://www.reddit.com/user/nyperfox) for helping with planning and shit.
 - [u/AmongUsCockBot](https://github.com/nlanson/AmongUsCockBot) for being a fellow cock bot.
 - You, because people using the bot is neat.
+- 08/09/2021 - Bot hit 6900 Karma!
+- 12/14/2021 - Bot hit 10k Karma!
+- 02/06/2022 - Soon the Cock Dispenser will be 1 year old!
 
 ## The team
 - [u/IPV46](https://www.reddit.com/user/IPV46) - Developer
