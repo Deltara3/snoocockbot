@@ -1,5 +1,5 @@
 # snoocockbot
-The spiritual successor to AmongUsCockBot.
+The spiritual successor to AmongUsCockBot. (Don't ask why we still update this repo lmao)
 
 ## Why?
 I dunno, it was funny.
