@@ -1,5 +1,5 @@
 # snoocockbot
-The spiritual successor to AmongUsCockBot.
+The spiritual successor to AmongUsCockBot. (Don't ask why we still update this repo lmao)
 
 ## Why?
 I dunno, it was funny.
@@ -9,6 +9,7 @@ I dunno, it was funny.
 - Cock
 - and more Cock
 - Probably something else I dunno.
+- Get Suspended from Reddit. Banned from subs too.
 - It got the Brighten My Day award so it can clearly brighten up your day
 
 ## Where?
@@ -39,6 +40,9 @@ Odd question but okay. It's running on repl because I'm broke.
 - [u/nyperfox](https://www.reddit.com/user/nyperfox) for helping with planning and shit.
 - [u/AmongUsCockBot](https://github.com/nlanson/AmongUsCockBot) for being a fellow cock bot.
 - You, because people using the bot is neat.
+- 08/09/2021 - Bot hit 6900 Karma!
+- 12/14/2021 - Bot hit 10k Karma!
+- 02/06/2022 - Soon the Cock Dispenser will be 1 year old!
 
 ## The team
 - [u/IPV46](https://www.reddit.com/user/IPV46) - Developer
