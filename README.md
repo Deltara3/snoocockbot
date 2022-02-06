@@ -9,6 +9,7 @@ I dunno, it was funny.
 - Cock
 - and more Cock
 - Probably something else I dunno.
+- Get Suspended from Reddit. Banned from subs too.
 - It got the Brighten My Day award so it can clearly brighten up your day
 
 ## Where?
