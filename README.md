@@ -45,9 +45,9 @@ Odd question but okay. It's running on repl because I'm broke.
 - 02/06/2022 - Soon the Cock Dispenser will be 1 year old!
 
 ## The team
-- [u/IPV46](https://www.reddit.com/user/IPV46) - Developer
+- [u/IPV46](https://www.reddit.com/user/IPV46) - Developer, Takes care of the SnooCockBot Repository
 - [u/Glass-Paramedic](https://www.reddit.com/user/Glass-Paramedic) - Co-Developer
-- [u/Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere) - The man with the idea, Co-Developer
+- [u/Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere) - The man with the idea, Co-Developer, Takes care of the SnooCockBot Repository
 - [u/nyperfox](https://www.reddit.com/user/nyperfox) - He did some shit too
 
 
