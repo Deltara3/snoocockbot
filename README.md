@@ -30,6 +30,8 @@ Odd question but okay. It's running on repl because I'm broke.
 - 07/27/2021 - [Elemento_Sphere](https://www.reddit.com/user/Elemento_Sphere). (Link dead, Deleted Account) Became a dev
 - 08/02/2021 - Bot got the Brighten My Day award.
 - 08/09/2021 - Bot hit 6900 karma!
+- 6/11/2023 - Announcement of shutdown due to Reddit API changes.
+- 6/30/2023 - Scheduled shutdown date.
 
 ## Acknowledgements
 - [u/keijyu](https://www.reddit.com/user/keijyu) for making [u/AmongUsCockBot](https://github.com/nlanson/AmongUsCockBot) and helping us fix mobile formatting.
