@@ -1,6 +1,8 @@
 # snoocockbot
 The spiritual successor to AmongUsCockBot. (Don't ask why we still update this repo lmao)
 
+# BOT IS SHUTDOWN INDEFINITELY. REPO PLACED IN PUBLIC ARCHIVE.
+
 ## Why?
 I dunno, it was funny.
 
@@ -32,6 +34,7 @@ Odd question but okay. It's running on repl because I'm broke.
 - 08/09/2021 - Bot hit 6900 karma!
 - 6/11/2023 - Announcement of shutdown due to Reddit API changes.
 - 6/30/2023 - Scheduled shutdown date.
+- 6/30/2023 - Bot was shutdown.
 
 ## Acknowledgements
 - [u/keijyu](https://www.reddit.com/user/keijyu) for making [u/AmongUsCockBot](https://github.com/nlanson/AmongUsCockBot) and helping us fix mobile formatting.
